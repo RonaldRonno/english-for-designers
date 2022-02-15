@@ -3,7 +3,7 @@
 ### created by Ronald Steiniger
 ![Photo of my artwork](DAfencer.png) 
 ![Photo of my artwork](DGface.png) 
-### These two are my fav art digital pieces of mine.
+### These two are my fav art digital pieces whitch I created long time ago.
 ___
 ### Notes
 - It all started because of pc games, I was huge fun of digital art and compositions there.
