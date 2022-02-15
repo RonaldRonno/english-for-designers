@@ -5,7 +5,7 @@
 ### created by Ronald Steiniger
 ![Photo of my artwork](DAfencer.png) 
 ![Photo of my artwork](DGface.png) 
-### Case study of mine
+### Study case of mine
 - [View presentation](StudycaseRonald.pdf)
 ## Notes
 - It all started because of pc games, I was huge fun of digital art and compositions there.
