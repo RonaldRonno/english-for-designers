@@ -5,7 +5,7 @@
 ![Photo of my artwork](DGface.png) 
 ### These two are my fav art digital pieces whitch I created long time ago.
 
-### Notes
+## Notes
 - It all started because of pc games, I was huge fun of digital art and compositions there.
 - I attended art school in addition to elementary school and high school.
 - I participated in various team projects where we presented works of art as children.
