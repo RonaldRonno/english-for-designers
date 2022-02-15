@@ -6,7 +6,7 @@
 ![Photo of my artwork](DAfencer.png) 
 ![Photo of my artwork](DGface.png) 
 ### Case study of mine
-- [View presentation](Study case Ronald Steiniger.pdf)
+- [View presentation](StudycaseRonald.pdf)
 ## Notes
 - It all started because of pc games, I was huge fun of digital art and compositions there.
 - I attended art school in addition to elementary school and high school.
