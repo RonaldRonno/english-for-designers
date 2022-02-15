@@ -17,5 +17,9 @@ My tone of voice adapts to the situation. We all have different natures. Thats w
 
 
 ## Style
+If we talk about tone and voice together as a style, then I will say my favorite sentence whitch can explain my style: "There is beauty in simplicity." 
+
+When I write something, I always come back to me to check everything. I try not to repeat the same words because it sounds very unprofessional as if I didn't have vocabulary. Quite often I use hyphens as a section of points from text or on keywords.
+Sometimes I additionally underline what is important. I like to use emoticons to make the subject more pleasant and more emotional
 ___
 [Homepage](https://github.com/RonaldRonno/english-for-designers/blob/main/README.md)
