@@ -7,7 +7,7 @@
 
 ## Work stuff
 - [Character description](https://github.com/RonaldRonno/english-for-designers/blob/main/01-character-description/index.md)
--
+- [Impression](https://github.com/RonaldRonno/english-for-designers/blob/main/02-impression/index.md)
 -
 -
 
