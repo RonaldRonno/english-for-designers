@@ -6,7 +6,7 @@
 - View CV
 
 ## Work stuff
-- Character description 
+- [Character description](https://github.com/RonaldRonno/english-for-designers/blob/main/01-character-description/index.md)
 -
 -
 -
