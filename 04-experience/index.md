@@ -1,5 +1,5 @@
 # Ronald Steiniger
-steiniger.ronald@gmail.com • +421 904 568 354 • [Instagram](https://www.instagram.com/ronald_steiniger/)
+my portfolio on [Instagram](https://www.instagram.com/ronald_steiniger/)
 
 ## Education
 - Bachelor of graphic and media design
