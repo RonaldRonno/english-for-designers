@@ -1,7 +1,7 @@
 # Ronald Steiniger
 - My portfolio on [Instagram](https://www.instagram.com/ronald_steiniger/)
 
-[Cameraman](Mework.jpg)
+![Cameraman](Mework.jpg)
 
 ## Education
 - Bachelor of graphic and media design
