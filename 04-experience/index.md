@@ -1,5 +1,5 @@
 # [English-for-designers](https://github.com/RonaldRonno/english-for-designers/blob/main/README.md)
-# Ronald Steiniger
+## Ronald Steiniger
 - My portfolio on [Instagram](https://www.instagram.com/ronald_steiniger/)
 
 ![Cameraman](Mework.jpeg)
