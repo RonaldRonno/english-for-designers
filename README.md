@@ -6,7 +6,7 @@
 - View CV
 
 ## Work stuff
-- impression
+- Character description 
 -
 -
 -
