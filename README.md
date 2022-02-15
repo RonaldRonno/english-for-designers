@@ -5,9 +5,8 @@
 ## That's me!
 
 - [My story](https://github.com/RonaldRonno/english-for-designers/blob/main/03-aboutness/index.md)
-- View CV
 
-## Work stuff
+## Coursework 
 - [Character description](https://github.com/RonaldRonno/english-for-designers/blob/main/01-character-description/index.md)
 - [Impression](https://github.com/RonaldRonno/english-for-designers/blob/main/02-impression/index.md)
 - [Experience](https://github.com/RonaldRonno/english-for-designers/blob/main/04-experience/index.md)
