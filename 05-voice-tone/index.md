@@ -12,6 +12,7 @@ I am the type of person who likes to discuss and solve problems. I try to commun
 - love to experiment and risk
 
 ## Tone
+My tone of voice adapts to the situation. We all have different natures. Thats why my tone of voice depends on the people I work with or work for. Every client is different! Some of them are full of energy, some have trouble expressing themselves and do not know what they want. I try to be serious but I lighten it with cheerfulness and optimism. My point is not to be boring but interesting. I'm not saying that it's not bad to stand up for our opinion, but the point is that we have to work as a team and look for common solutions.
 
 
 ## Style
