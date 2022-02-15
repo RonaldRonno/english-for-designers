@@ -1,5 +1,5 @@
 # Ronald Steiniger
-my portfolio on [Instagram](https://www.instagram.com/ronald_steiniger/)
+- My portfolio on [Instagram](https://www.instagram.com/ronald_steiniger/)
 
 ## Education
 - Bachelor of graphic and media design
