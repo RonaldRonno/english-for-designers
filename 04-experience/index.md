@@ -1,6 +1,7 @@
 # [English-for-designers](https://github.com/RonaldRonno/english-for-designers/blob/main/README.md)
 ## Ronald Steiniger
 - My portfolio on [Instagram](https://www.instagram.com/ronald_steiniger/)
+- Working art studio: [Instagram](https://www.sosarchitekti.sk/)
 
 ![Cameraman](Mework.jpeg)
 
@@ -33,5 +34,6 @@
 - playing PC games
 - I like to socialize
 - I love parties 
+
 ___
-[homepage](https://github.com/RonaldRonno/english-for-designers/blob/main/README.md)
+[homepage](https://github.com/RonaldRonno/english-for-designers/blob/main/07-homepage/index.md)
