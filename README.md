@@ -2,6 +2,8 @@
 
 # Ronald Steiniger
 
+![Photo MEk](freedomRono.jpeg) 
+
 ## That's me!
 
 - [My story](https://github.com/RonaldRonno/english-for-designers/blob/main/03-aboutness/index.md)
