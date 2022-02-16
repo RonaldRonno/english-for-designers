@@ -14,4 +14,4 @@
 - Over time, I also got to University where I apply all my experience in practice .
 - PS. I still love to play pc games.
 ___
-[homepage](https://github.com/RonaldRonno/english-for-designers/blob/main/README.md)
+[homepage](https://github.com/RonaldRonno/english-for-designers/blob/main/07-homepage/index.md)
