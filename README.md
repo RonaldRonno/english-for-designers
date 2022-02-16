@@ -2,7 +2,7 @@
 
 # Ronald Steiniger
 
-![Photo MEk](freedomRono.jpeg) 
+![Photo ME](freedomRono.jpeg) 
 
 ## That's me!
 
