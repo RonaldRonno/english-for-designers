@@ -19,3 +19,9 @@
 
 - **[instagram](https://www.instagram.com/ronald_steiniger/)**
 - **[facebook](https://www.facebook.com/ronald.steiniger)**
+
+## Takeaways
+- I gladly tried it because this was something new so it was like a challenge. 
+- The hardest thing for me was to understand the language of GitHub
+- But now it seems so easy :P
+- thanks for the opportunity.
