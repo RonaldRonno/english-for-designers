@@ -10,4 +10,4 @@ Hello, my name is Ronald Steiniger and I come from eastern Slovakia from the cit
 
 About my artistic and work skills, I have had a relationship with art since I was young, thats why I choose to continue on VSKK. I loved to create modern digital art, whether it was 3D or virtual visualization. Throughout my practice, I have tried various professions such as graphic designer, video creator, photographer, drone operator. At the moment, what I enjoy most is watching the world from heights and taking artistic shots with my drone.
 ___
-[homepage](https://github.com/RonaldRonno/english-for-designers/blob/main/README.md)
+[homepage](https://github.com/RonaldRonno/english-for-designers/blob/main/07-homepage/index.md)
