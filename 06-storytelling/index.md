@@ -2,7 +2,7 @@
 
 ## Link to the video
 
-https://www.instagram.com/reel/CdiRYGropa4/?utm_source=ig_web_copy_link
+https://www.instagram.com/tv/Cd16EYPovea/?igshid=YmMyMTA2M2Y=
 ___
 [homepage](https://github.com/RonaldRonno/english-for-designers/blob/main/07-homepage/index.md)
 
