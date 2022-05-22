@@ -14,7 +14,7 @@
 - [Experience](https://github.com/RonaldRonno/english-for-designers/blob/main/04-experience/index.md)
 - [Voice & tone](https://github.com/RonaldRonno/english-for-designers/blob/main/05-voice-tone/index.md)
 - [Storytelling](https://github.com/RonaldRonno/english-for-designers/tree/main/06-storytelling)(work in progress)
-
+- [Presentation](https://github.com/RonaldRonno/english-for-designers/blob/main/08-presentation/SOS%20ARCHITEKTI%20%2B%20other%20stuff.pdf)
 ## Contact
 
 - **[instagram](https://www.instagram.com/ronald_steiniger/)**
